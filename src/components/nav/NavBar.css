@@ -1,0 +1,14 @@
+.NavBar {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    background-color: yellow;
+    font-size: xx-large;
+    
+    
+}
+
+.NavBar__item {
+    flex-basis: 40%;
+    list-style-type: none;
+}

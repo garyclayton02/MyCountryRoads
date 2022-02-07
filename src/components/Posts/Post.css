@@ -1,0 +1,31 @@
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: turquoise;
+    
+  }
+  
+  .post_comment {
+      flex-basis: 28%;
+      margin: 1em;
+      padding: 1em;
+      border: 1px solid goldenrod;
+      
+  }
+
+  .post_user {
+    flex-basis: 28%;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid goldenrod;
+    
+}
+
+  .postForm {
+      background-color: yellowgreen;
+  }
+
+
+
+  
